@@ -1,2 +1,2 @@
-# meu-projeto-ciencia-dados
-Projeto de Especialização em Ciência de Dados
+# Aspectos Avançados de Python
+Projeto de Especialização em Ciência de Dados pela Unitins
